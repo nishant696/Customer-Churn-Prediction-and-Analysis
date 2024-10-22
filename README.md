@@ -130,10 +130,13 @@ This project provides a comprehensive view of customer churn, combining SQL-base
 
 
 ## Screenshots
+<img width="656" alt="image" src="https://github.com/user-attachments/assets/916252ca-f7c6-46b0-8ee0-690bbbb4e4ab">
+<img width="163" alt="image" src="https://github.com/user-attachments/assets/ac342d4c-c1db-4f17-b779-8baada2ee96f">
+<img width="649" alt="image" src="https://github.com/user-attachments/assets/8390b081-0cbb-44bb-8122-b01e2cc2261e">
 
-![App Screenshot](img width="635" alt="image" src="https://github.com/user-attachments/assets/583800dc-4f83-4601-b435-138ce69a9780")
 
-![App Screenshot](![App Screenshot](img width="635" alt="image" src="https://github.com/user-attachments/assets/583800dc-4f83-4601-b435-138ce69a9780"))
+
+
 
 
 
